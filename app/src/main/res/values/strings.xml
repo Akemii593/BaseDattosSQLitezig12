@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BaseDattosSQLitezig</string>
+    <string name="tbtnregistra">Registar</string>
+    <string name="Mprincipal">Menu Principal</string>
+    <string name="toRegistra">Opcion de Registro</string>
+    <string name="Inombre">Ingresa tu Nombre</string>
+    <string name="IEdad">Ingresa Tu Edad</string>
+    <string name="Isexo">Ingresa tu Sexo</string>
+    <string name="RbtnRegistrar">Registra</string>
+</resources>
